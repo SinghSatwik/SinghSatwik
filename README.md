@@ -1,9 +1,6 @@
 # 💫 About Me:
 Hi! I'm Satwik Singh, Computer Science and Engineering student at IIIT-Delhi and interested in AI/ML, Computational Linguistics and NLP.
 
-🚀 Explore my projects and coursework here
-
-
 
 <!--
 **SinghSatwik/SinghSatwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
