@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! I'm Satwik Singh, Computer Science and Engineering student at IIIT-Delhi and interested in AI/ML, Computational Linguistics and NLP.
 
-# 🚀 Explore My Work
+### 🚀 Explore My Work
 Check out my independent projects and coursework here
 
 
