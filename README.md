@@ -1,4 +1,9 @@
-## Hi there 👋
+## 💫 About Me:
+Hi! I am Satwik Singh, Computer Science and Engineering student at IIIT-Delhi and interested in AI/ML,Computational Linguistics and NLP.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 <!--
 **SinghSatwik/SinghSatwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
