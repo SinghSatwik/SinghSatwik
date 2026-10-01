@@ -2,7 +2,7 @@
 Hi! I am Satwik Singh, Computer Science and Engineering student at IIIT-Delhi and interested in AI/ML,Computational Linguistics and NLP.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="[https://capsule-render.vercel.app/api](https://www.vecteezy.com/vector-art/23733627-hello-everybody-word-bold-textured-lettering-design-template-typography-vector-background-handmade-calligraphy-comic-style-design-for-cards-prints-stickers-social-media)?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 <!--
