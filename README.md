@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi! I'm Satwik Singh, Computer Science and Engineering student at IIIT-Delhi and interested in AI/ML, Computational Linguistics and NLP.
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF7E3&random=false&width=435&lines=Developing+Software+%40IIIT-Delhi" alt="Typing SVG"></a>
 
 <!--
 **SinghSatwik/SinghSatwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
