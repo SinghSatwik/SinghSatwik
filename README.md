@@ -2,7 +2,7 @@
 Hi! I'm Satwik Singh, Computer Science and Engineering student at IIIT-Delhi and interested in AI/ML, Computational Linguistics and NLP. Explore my projects and coursework here.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developing+Software;Learning+Machine+Learning;Exploring+NLP;Building+Interesting+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1500&color=36BCF7&center=true&vCenter=true&width=500&lines=Developing+Software;Learning+Machine+Learning+&+Deep Learning;Exploring+NLP;Building+Interesting+Things" />
 </p>
 
 
