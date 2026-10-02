@@ -1,17 +1,16 @@
-
-# ⭐ About Me
-
+# 💫 About Me:
 Hi! I'm Satwik Singh, Computer Science and Engineering student at IIIT-Delhi and interested in AI/ML, Computational Linguistics and NLP.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Developing+Software;Learning+Machine+Learning;Exploring+NLP;Building+Interesting+Things" />
 </p>
-<!--# 💫 About Me:
-Hi! I'm Satwik Singh, Computer Science and Engineering student at IIIT-Delhi and interested in AI/ML, Computational Linguistics and NLP.
+
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF7E3&random=false&width=435&lines=Developing+Software+%40IIIT-Delhi" alt="Typing SVG"></a>
 >
-<!--
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF7E3&random=false&width=435&lines=Developing+Software+%40IIIT-Delhi;Learning+AI%2FML;Exploring+NLP" alt="Typing SVG">
+</a>
 **SinghSatwik/SinghSatwik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
